@@ -1,2 +1,59 @@
 
 I-2-N Programozás alapok
+
+
+=================
+
+2023-09-06
+
+github.com/oktat/tan
+szit.hu/int
+szit.hu
+
+
+Chocolatey
+Csomagkezelő Windowsra
+choco --version
+
+cmd       command
+Power Shell  Windows 
+Git > Git Bash
+
+Shell => Parancsértelmező
+
+Bash    Linux ~1990
+Bsh    Unix   ~1970
+
+Visual Studio Code
+VSCode
+code
+
+choco install python
+choco search python
+
+
+Lehetséges dolgozat kérdések
+
+Mire való a Chocolatey?
+Mire való a choco parancs?
+Jelölje meg melyik Windowsos Shell.
+Hogyan nézhetjük meg a telepített Chocolatey verzióját?
+
+
+Tóth Tamás    H
+Tukolicza     H
+Kassuba Ol.   H
+Balog Márk M. H
+
+
+
+
+
+
+
+
+
+
+
+
+
