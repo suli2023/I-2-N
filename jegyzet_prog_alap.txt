@@ -39,17 +39,45 @@ Mire való a choco parancs?
 Jelölje meg melyik Windowsos Shell.
 Hogyan nézhetjük meg a telepített Chocolatey verzióját?
 
+__Python Shell__
 
-Tóth Tamás    H
-Tukolicza     H
-Kassuba Ol.   H
-Balog Márk M. H
+cmd
+powershell
+(Git Bash)
+
+W3C konzorcium
+validation.w3.org
+w3.org
+
+Chrome, Firefox
+
+https://jsbin.com/
+
+dev/
+  |-nj/
+  `-nj-i2n/
+    |-python/
+    `-web/
+       `-hello/
+           `-index.html
+
+code .
 
 
+<!DOCTYPE html>
 
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
 
-
-
+ami nem volt: Python main.py (tehát fájlban)
 
 
 
