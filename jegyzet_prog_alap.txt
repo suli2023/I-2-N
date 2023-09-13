@@ -83,6 +83,10 @@ ami nem volt: Python main.py (tehát fájlban)
 
 2023-09-13
 
+c:\Users\Tanar\dev\nj-i2n\web\
+
+alap/
+  |-index.html
 
 
 
