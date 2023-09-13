@@ -79,6 +79,10 @@ code .
 
 ami nem volt: Python main.py (tehát fájlban)
 
+==================
+
+2023-09-13
+
 
 
 
