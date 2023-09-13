@@ -89,6 +89,11 @@ alap/
   |-index.html
 
 
+Listák
+Tankönyvben eddig jutottun:
+Oszlopok csoportosítása
+
+
 
 
 
